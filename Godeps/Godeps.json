@@ -1,0 +1,59 @@
+{
+	"ImportPath": "github.com/kung-foo/cellchat",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.7.3-4-gaaf92c9",
+			"Rev": "aaf92c95712104318fc35409745f1533aa5ff327"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "215affda49addc4c8ef7e2534915df2c8c35c6cd"
+		},
+		{
+			"ImportPath": "github.com/gorilla/handlers",
+			"Rev": "8066bb491b4ea129dd71b306aab4c52868503404"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "47e8f450ef38c857cdd922ec08862ca9d65a1c6d"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Rev": "a3ec486e6a7a41858210b0fc5d7b5df593b3c4a3"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/cells",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/errors",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/identifier",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/logger",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/loop",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/monitoring",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/scene",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		},
+		{
+			"ImportPath": "github.com/tideland/golib/version",
+			"Rev": "9f277719f224403d94cbfeed7a1837de2c74ca3b"
+		}
+	]
+}
